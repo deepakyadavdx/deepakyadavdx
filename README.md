@@ -5,6 +5,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepakyadavdx.deepakyadavdx" alt="visitors">
+</a>
 
 <!---
 deepakyadavdx/deepakyadavdx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
